@@ -4,3 +4,6 @@ Our test github repository for the course
 We are about to attempt using the **pull command** in this lecture
 
 *So lets get started!*
+
+Test for ssh key setup
+
